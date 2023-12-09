@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Консоль запросов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Консоль запросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Консоль запросов.md"
               }
             }
           },
@@ -164,12 +164,49 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "566a8e099e8ac471",
+  "floating": {
+    "id": "035f3e2fbc840748",
+    "type": "floating",
+    "children": [
+      {
+        "id": "eeb48caf3a4376b1",
+        "type": "window",
+        "children": [
+          {
+            "id": "e9aed9100501605c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54de852a05fac24a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 37,
+        "width": 1512,
+        "height": 945,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "54de852a05fac24a",
   "lastOpenFiles": [
-    "Консоль запросов.md",
     "1C Конфигуратор.md",
     "1С.md",
     "index.md",
+    "Консоль запросов.md",
     "src/Pasted image 20231209182421.png",
     "src",
     "docs/консоль-запросов.html",
