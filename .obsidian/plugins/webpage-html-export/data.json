@@ -4,23 +4,23 @@
   "inlineImages": true,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
-  "makeNamesWebStyle": false,
-  "allowFoldingHeadings": true,
+  "makeNamesWebStyle": true,
+  "allowFoldingHeadings": false,
   "sidebarsAlwaysCollapsible": false,
   "addFilenameTitle": false,
-  "minifyHTML": true,
-  "customLineWidth": "",
+  "minifyHTML": false,
+  "customLineWidth": "1000",
   "contentWidth": "",
   "sidebarWidth": "",
   "startOutlineCollapsed": false,
   "logLevel": "warning",
   "incrementalExport": false,
   "deleteOldExportedFiles": false,
-  "addDarkModeToggle": false,
-  "includeOutline": false,
+  "addDarkModeToggle": true,
+  "includeOutline": true,
   "includeGraphView": false,
-  "includeFileTree": false,
-  "exportPreset": "documents",
+  "includeFileTree": true,
+  "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
@@ -33,7 +33,7 @@
   "filesToExport": [
     [
       "index.md",
-      "kk.md"
+      "1С.md"
     ]
   ]
 }

@@ -165,17 +165,19 @@
   },
   "active": "8d9fc0aa0063a27b",
   "lastOpenFiles": [
-    "1С.md",
+    "1C Конфигуратор.md",
     "index.md",
-    "docs/kk.html",
+    "Консоль запросов.md",
+    "1С.md",
+    "docs/index.html",
     "docs/lib/scripts/tinycolor.js",
-    "docs/lib/scripts/graph_view.js",
-    "docs/lib/scripts/graph_wasm.js",
     "docs/lib/scripts/graph_wasm.wasm",
-    "docs/lib/styles/theme.css",
-    "docs/lib/styles/snippets.css",
-    "docs/lib/styles/plugin-styles.css",
-    "docs/lib/styles/obsidian-styles.css",
-    "docs/lib/styles/generated-styles.css"
+    "docs/lib/scripts/graph_wasm.js",
+    "docs/lib/scripts/graph_view.js",
+    "docs/lib/scripts/graph-render-worker.js",
+    "docs/lib/scripts",
+    "docs/lib",
+    "docs/1с.html",
+    "docs/kk.html"
   ]
 }
