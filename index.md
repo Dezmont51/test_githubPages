@@ -4,5 +4,8 @@
 3. тест
 4. ffff 
 5. rrrr
-6. rrrr
-˝˝˝
+
+>[!example]- Пример
+>ddfdf
+>dfdf
+
