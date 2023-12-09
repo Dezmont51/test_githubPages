@@ -165,6 +165,8 @@
   },
   "active": "8d9fc0aa0063a27b",
   "lastOpenFiles": [
+    "src/Pasted image 20231209182421.png",
+    "src",
     "docs/консоль-запросов.html",
     "docs/1c-конфигуратор.html",
     "Консоль запросов.md",
@@ -177,8 +179,6 @@
     "docs/lib/scripts/graph_wasm.js",
     "docs/lib/scripts/graph_view.js",
     "docs/lib/scripts/graph-render-worker.js",
-    "docs/lib/scripts",
-    "docs/lib",
-    "docs/1с.html"
+    "docs/lib/scripts"
   ]
 }
