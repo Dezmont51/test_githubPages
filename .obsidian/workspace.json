@@ -165,10 +165,12 @@
   },
   "active": "8d9fc0aa0063a27b",
   "lastOpenFiles": [
-    "1C Конфигуратор.md",
-    "index.md",
+    "docs/консоль-запросов.html",
+    "docs/1c-конфигуратор.html",
     "Консоль запросов.md",
+    "1C Конфигуратор.md",
     "1С.md",
+    "index.md",
     "docs/index.html",
     "docs/lib/scripts/tinycolor.js",
     "docs/lib/scripts/graph_wasm.wasm",
@@ -177,7 +179,6 @@
     "docs/lib/scripts/graph-render-worker.js",
     "docs/lib/scripts",
     "docs/lib",
-    "docs/1с.html",
-    "docs/kk.html"
+    "docs/1с.html"
   ]
 }
