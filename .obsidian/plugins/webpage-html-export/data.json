@@ -32,8 +32,10 @@
   "exportPath": "/Users/andrejfokin/git/test_githubPages/docs",
   "filesToExport": [
     [
-      "index.md",
-      "1С.md"
+      "1С.md",
+      "1C Конфигуратор.md",
+      "Консоль запросов.md",
+      "index.md"
     ]
   ]
 }
