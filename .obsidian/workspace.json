@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -165,7 +165,7 @@
   },
   "active": "8d9fc0aa0063a27b",
   "lastOpenFiles": [
-    "kk.md",
+    "1С.md",
     "index.md",
     "docs/kk.html",
     "docs/lib/scripts/tinycolor.js",
