@@ -159,12 +159,23 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "8d9fc0aa0063a27b",
   "lastOpenFiles": [
+    "kk.md",
     "index.md",
-    "kk.md"
+    "docs/kk.html",
+    "docs/lib/scripts/tinycolor.js",
+    "docs/lib/scripts/graph_view.js",
+    "docs/lib/scripts/graph_wasm.js",
+    "docs/lib/scripts/graph_wasm.wasm",
+    "docs/lib/styles/theme.css",
+    "docs/lib/styles/snippets.css",
+    "docs/lib/styles/plugin-styles.css",
+    "docs/lib/styles/obsidian-styles.css",
+    "docs/lib/styles/generated-styles.css"
   ]
 }
