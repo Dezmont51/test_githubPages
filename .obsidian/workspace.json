@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "продавцы",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8d9fc0aa0063a27b",
+  "active": "566a8e099e8ac471",
   "lastOpenFiles": [
     "Консоль запросов.md",
     "1C Конфигуратор.md",
