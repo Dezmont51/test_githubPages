@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "ДополнительнаяИнформация/Создать справочник.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "ДополнительнаяИнформация/Создать справочник.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "ДополнительнаяИнформация/Создать справочник.md"
               }
             }
           },
@@ -176,9 +176,51 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ff8f8ab3362bf28b",
+  "floating": {
+    "id": "1a403aa98cff135d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "34dfe6d2d3f4f176",
+        "type": "window",
+        "children": [
+          {
+            "id": "265f7fc8f9319585",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "275dff0b6077c8eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ДополнительнаяИнформация/Создать справочник.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 306,
+        "y": 457,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "275dff0b6077c8eb",
   "lastOpenFiles": [
+    "ДополнительнаяИнформация/Создать объекты.md",
+    "ДополнительнаяИнформация/Создать документ.md",
+    "ДополнительнаяИнформация/Консоль запросов.md",
     "ДополнительнаяИнформация/БСП.md",
+    "ДополнительнаяИнформация/1C Конфигуратор.md",
+    "ДополнительнаяИнформация/1С.md",
     "index.md",
     "src/Pasted image 20231214160953.png",
     "1C Конфигуратор.md",
