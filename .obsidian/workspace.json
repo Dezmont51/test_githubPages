@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ДополнительнаяИнформация/БСП.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "105c98c0f6660df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,15 +168,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "34dfe6d2d3f4f176",
+        "id": "7f2cb5dcc2eb91f8",
         "type": "window",
         "children": [
           {
-            "id": "265f7fc8f9319585",
+            "id": "6b4d98b43f5e604e",
             "type": "tabs",
             "children": [
               {
-                "id": "275dff0b6077c8eb",
+                "id": "6104e42be4c18f9b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -213,7 +200,7 @@
       }
     ]
   },
-  "active": "275dff0b6077c8eb",
+  "active": "6104e42be4c18f9b",
   "lastOpenFiles": [
     "ДополнительнаяИнформация/Создать объекты.md",
     "ДополнительнаяИнформация/Создать документ.md",
@@ -222,6 +209,7 @@
     "ДополнительнаяИнформация/1C Конфигуратор.md",
     "ДополнительнаяИнформация/1С.md",
     "index.md",
+    "ДополнительнаяИнформация/Создать справочник.md",
     "src/Pasted image 20231214160953.png",
     "1C Конфигуратор.md",
     "1С.md",
