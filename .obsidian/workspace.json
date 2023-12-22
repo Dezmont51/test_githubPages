@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ДополнительнаяИнформация/Создать справочник.md",
+                "file": "ДополнительнаяИнформация/БСП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ДополнительнаяИнформация/Создать справочник.md",
+                "file": "ДополнительнаяИнформация/БСП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ДополнительнаяИнформация/Создать справочник.md"
+                "file": "ДополнительнаяИнформация/БСП.md"
               }
             }
           },
@@ -163,53 +163,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "1a403aa98cff135d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7f2cb5dcc2eb91f8",
-        "type": "window",
-        "children": [
-          {
-            "id": "6b4d98b43f5e604e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6104e42be4c18f9b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ДополнительнаяИнформация/Создать справочник.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 306,
-        "y": 457,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6104e42be4c18f9b",
+  "active": "8d9fc0aa0063a27b",
   "lastOpenFiles": [
+    "src/DataConv3.0-SSL-integration.pdf",
+    "index.md",
+    "ДополнительнаяИнформация/БСП.md",
+    "ДополнительнаяИнформация/Создать справочник.md",
     "ДополнительнаяИнформация/Создать объекты.md",
     "ДополнительнаяИнформация/Создать документ.md",
     "ДополнительнаяИнформация/Консоль запросов.md",
-    "ДополнительнаяИнформация/БСП.md",
     "ДополнительнаяИнформация/1C Конфигуратор.md",
     "ДополнительнаяИнформация/1С.md",
-    "index.md",
-    "ДополнительнаяИнформация/Создать справочник.md",
     "src/Pasted image 20231214160953.png",
     "1C Конфигуратор.md",
     "1С.md",
